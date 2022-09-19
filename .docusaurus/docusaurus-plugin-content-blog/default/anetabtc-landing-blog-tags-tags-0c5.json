@@ -1,0 +1,30 @@
+{
+  "/anetabtc-landing/blog/tags/facebook": {
+    "allTagsPath": "/anetabtc-landing/blog/tags",
+    "slug": "/anetabtc-landing/blog/tags/facebook",
+    "name": "facebook",
+    "count": 1,
+    "permalink": "/anetabtc-landing/blog/tags/facebook"
+  },
+  "/anetabtc-landing/blog/tags/hello": {
+    "allTagsPath": "/anetabtc-landing/blog/tags",
+    "slug": "/anetabtc-landing/blog/tags/hello",
+    "name": "hello",
+    "count": 2,
+    "permalink": "/anetabtc-landing/blog/tags/hello"
+  },
+  "/anetabtc-landing/blog/tags/docusaurus": {
+    "allTagsPath": "/anetabtc-landing/blog/tags",
+    "slug": "/anetabtc-landing/blog/tags/docusaurus",
+    "name": "docusaurus",
+    "count": 4,
+    "permalink": "/anetabtc-landing/blog/tags/docusaurus"
+  },
+  "/anetabtc-landing/blog/tags/hola": {
+    "allTagsPath": "/anetabtc-landing/blog/tags",
+    "slug": "/anetabtc-landing/blog/tags/hola",
+    "name": "hola",
+    "count": 1,
+    "permalink": "/anetabtc-landing/blog/tags/hola"
+  }
+}
